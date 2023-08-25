@@ -1,11 +1,12 @@
 # Blender
 Various projects created on Blender
 
-![Blender](Creations/Donut.gif)
-![Blender](Creations/Walking_Robot.gif)
-![Blender](Creations/Ouverture_coffre.gif)
-![Blender](Creations/CanapÃ©.gif)
-![Blender](Creations/Chaise.gif)
-![Blender](Creations/Babyfoot.gif)
-![Blender](Creations/Golf.png)
-![Blender](Creations/Stylo.png)
+![Blender](sources/Donut.gif)
+![Blender](sources/Walking_Robot.gif)
+![Blender](sources/Ouverture_coffre.gif)
+![Blender](sources/Canapé.gif)
+![Blender](sources/Chaise.gif)
+![Blender](sources/Babyfoot.gif)
+![Blender](sources/Golf.png)
+![Blender](sources/Stylo.png)
+ 
