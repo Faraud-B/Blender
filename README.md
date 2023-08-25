@@ -1,5 +1,5 @@
 # Blender
-Various projects created with Blender
+Projects created with Blender
 
 ![Blender](sources/Donut.gif)
 ![Blender](sources/Walking_Robot.gif)
